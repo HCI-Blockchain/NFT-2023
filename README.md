@@ -14,9 +14,9 @@ The rise of CryptoPunks in June 2017 bring the innovation of Non-Fungible Token 
   - Correlation Analysis
 
 ## Table of Contents
-- [Data]()
-- [Code]()
-- [References]()
+- [Data](https://github.com/HCI-Blockchain/ICWSM-2023/blob/main/README.md#data)
+- [Code](https://github.com/HCI-Blockchain/ICWSM-2023/blob/main/README.md#code)
+- [References](https://github.com/HCI-Blockchain/ICWSM-2023/blob/main/README.md#references)
 
 ## Data
 - [Queried Tweets](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
