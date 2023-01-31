@@ -19,8 +19,11 @@ The rise of CryptoPunks in June 2017 bring the innovation of Non-Fungible Token 
 - [References]()
 
 ## Data
-- [Queried]()
+- [Queried Tweets](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
+- [Analyzed Sentiment Score](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_sentiment%20score)
+- CryptoPunk Price (Reference: [Yufan Zhang@iamyufan "cryptopunks-vis"](https://github.com/iamyufan/cryptopunks-vis/blob/main/data/database/tx_db.csv))
+- [Analyzed Data for Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_price%20regression)
+
 
 ## Code
-- [Sentiment Analysis and Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Sentiment%20Analysis%20and%20Price%20Correlation)
-- 
+- [Sentiment Analysis and Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Sentiment%20Analysis%20and%20Price%20Correlation) (Reference:)
