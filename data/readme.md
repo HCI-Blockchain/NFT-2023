@@ -1,3 +1,3 @@
-# Queried Tweets
-# Analyzed Sentiment Score 
-# CryptoPunk Price
+- Queried Tweets
+- Analyzed Sentiment Score 
+- CryptoPunk Price
