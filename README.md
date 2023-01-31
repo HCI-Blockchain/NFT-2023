@@ -29,8 +29,8 @@ The rise of CryptoPunks in June 2017 bring the innovation of Non-Fungible Token 
 
 ## References
 
-### Data
+### Data Source
 Zhang, Yufan. 2022. “Iamyufan / Cryptopunks-Vis.” GitHub. August 12, 2022. https://github.com/iamyufan/cryptopunks-vis.
-### Code
+### Code Source
 Li, Jiayi. 2022. “HCI-Blockchain / SentimentAnalysis.” GitHub. August 21, 2022. https://github.com/HCI-Blockchain/SentimentAnalysis.
 ### Literature
