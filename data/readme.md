@@ -1,3 +1,3 @@
-- (Queried Tweets)[https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets]
+- [Queried Tweets](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
 - Analyzed Sentiment Score 
 - CryptoPunk Price
