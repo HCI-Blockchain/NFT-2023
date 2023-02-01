@@ -1,4 +1,4 @@
-- [Queried and Cleaned Tweets Data](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
+- [Queried andCleaned Tweets Data](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
 - [Analyzed Sentiment Score](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_sentiment%20score)
 - CryptoPunk Price (Reference: [Yufan Zhang@iamyufan "cryptopunks-vis"](https://github.com/iamyufan/cryptopunks-vis/blob/main/data/database/tx_db.csv))
 - [Analyzed Data for Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_price%20regression)
