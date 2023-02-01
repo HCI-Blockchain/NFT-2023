@@ -26,6 +26,8 @@ The rise of CryptoPunks in June 2017 bring the innovation of Non-Fungible Token 
 
 ## Code
 - [Sentiment Analysis and Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Sentiment%20Analysis%20and%20Price%20Correlation) (Reference: [Jiayi Li@fionajiayi "SentimentAnalysis"](https://github.com/HCI-Blockchain/SentimentAnalysis))
+- [Topic Analysis](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Topic_Analysis)
+- [Transaction Data Regression](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Regression)
 
 ## References
 
