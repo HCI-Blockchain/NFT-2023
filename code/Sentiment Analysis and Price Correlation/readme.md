@@ -1,1 +1,0 @@
-- Sentiment Analysis's Code Reference: [Jiayi Li@fionajiayi "SentimentAnalysis"](https://github.com/HCI-Blockchain/SentimentAnalysis)
