@@ -1,31 +1,27 @@
-# Topic Analysis and Sentiment Analysis on CryptoPunks-Related Tweets Data
+# On the Mechanics of NFT Valuation: AI Ethics and Social Media
 
 ## Project Summary
 - **Abstract**:
-The rise of CryptoPunks in June 2017 bring the innovation of Non-Fungible Token (NFT) in the field of art, which provokes a lot of discussion on the internet and social media. And in recent years, CryptoPunks' transactions have also received news and media attention because of its association with many social topics and ethical issues. In this paper, we apply Topic Analysis and Sentiment Analysis models to study the discussion topics of CryptoPunks and investigate people's attitude towards CryptoPunks on Twitter using Twitter data from 2017 to 2021. Moreover, this paper also utilizes the CryptoPunks transaction data from 2017 to 2021 with python, and applies Hedonic Regression models to explore the effects of gender and skin color on CryptoPunks price and return on investment. Finally, combining the data from the two analyses, this paper explores the correlation relationship between twitter sentiment and CryptoPunks price. 
+The rise of CryptoPunks led to innovation in non-fungible tokens (NFTs) in the art field, and CryptoPunks' valuation mechanics has become a hot topic. However, the existing exploration of price prediction of CryptoPunks stopped in 2021 and only considered the impact of ethical factors such as gender and skin tone on price. Considering that 2021 was a booming year for the NFT market, the discussion on related social media grew dramatically. By applying sentiment analysis to social media data and using Hedonic regression for price prediction, this study is devoted to combining social media sentiment with ethical factors to examine the contribution of sentiment to CryptoPunks valuation. In addition,  the study compares the price prediction mechanisms before and after 2021 to explore structural changes in the NFT market. The findings suggest that social sentiment is a significant contributor to the price prediction of CryptoPunks, and there is a notable shift in the influence of ethical factors on their prices before and after 2021. Moreover, while people’s attitudes towards CryptoPunks are generally positive, the findings reflect some gender and color imbalances.
+
 - **Research Questions**:
-  - **RQ1**: What CryptoPunks-related topics on Twitter are people talking about and what are people's attitudes towards them?
-  - **RQ2**: How do gender and skin tone affect the price and return of investment (ROI) of CryptoPunks assets respectively?
-  - **RQ3**: What is the correlation relationship between Twitter sentiment and CryptoPunks prices?
+  - **RQ1**:  What are the characteristics of tweet sentiments, skin tones, and genders of CryptoPunks?
+  - **RQ2**: How can CryptoPunks-related tweet sentiments influence CryptoPunks valuation?
+  - **RQ3**: What are the structural changes in CryptoPunks valuation after explosive growth of NFT markets in 2021?
+  
 - **Methodology**: 
   - Sentiment Analysis
-  - Topic Analysis
-  - Transaction Data Regression
-  - Correlation Analysis
-
+  - Hedonic Regression
+  
 ## Table of Contents
 - [Data](https://github.com/HCI-Blockchain/ICWSM-2023#data)
 - [Code](https://github.com/HCI-Blockchain/ICWSM-2023#code)
-- [References](https://github.com/HCI-Blockchain/ICWSM-2023#references)
 
 ## Data
-- [Queried Tweets](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_tweets)
-- [Analyzed Sentiment Score](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_sentiment%20score)
-- CryptoPunk Price (Reference: [Yufan Zhang@iamyufan "cryptopunks-vis"](https://github.com/iamyufan/cryptopunks-vis/blob/main/data/database/tx_db.csv))
-- [Analyzed Data for Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_price%20regression)
+- [Queried Data](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/queried_data)
+- [Analyzed Data](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/data/analyzed_data)
 
 ## Code
-- [Sentiment Analysis and Price Correlation](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Sentiment%20Analysis%20and%20Price%20Correlation)
-- [Topic Analysis](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Topic_Analysis)
-- [Transaction Data Regression](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/Regression)
+- [Query](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/query)
+- [Analyze](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/analyze)
 
