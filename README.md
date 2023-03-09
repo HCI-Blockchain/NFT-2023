@@ -27,4 +27,4 @@ The rise of CryptoPunks led to innovation in non-fungible tokens (NFTs) in the a
 - [Analyze](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/analyze)
 
 ## Image
-- [Query](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
+- [image](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
