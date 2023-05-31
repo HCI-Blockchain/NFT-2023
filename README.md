@@ -27,11 +27,15 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | analyzed_sentiment_cryptopunk_2017_2022.csv | Daily sentiment score of CryptoPunks from 2017 to 2022 | 4.1.1 Twitter Sentiment Analysis |
 | analyzed_gender_skintone_transaction data.csv | The number and proportion of CryptoPunks traded from 2017 to 2022 according to gender and skin tone information | 4.1.2 Gender and Skin Tone Analysis of Transaction Data |
 | analyzed_keyword_sentiment and frequency.csv | Word frequency and sentiment score of gender and skin tone keywords in Tweets | 4.1.3 Twitter Discussion Analysis of Ethical Keywords |
-| xx | xx | xx |
 
 ## Code
-- [Query](https://github.com/HCI-Blockchain/NFT-2023/tree/main/code/query)
-- [Analyze](https://github.com/HCI-Blockchain/NFT-2023/tree/main/code/analyze)
+| **Content** | **Section of Paper** | **URL** |
+|--|--|--|
+| CryptoPunks Twitter Data Collection | 3.1. Data Collection | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/query/twitter/Twitter_Query_CryptoPunks.ipynb |
+| CryptoPunks Twitter Sentiment Analysis | 4.1.1 Twitter Sentiment Analysis | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/social%20media%20analysis/Sentiment_Analysis_CryptoPunks.ipynb |
+| CryptoPunks Transaction Gender and Skin Tone Analysis | 4.1.2 Gender and Skin Tone Analysis of Transaction Data | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/transaction%20data%20visualization/Transaction_Data_Analysis_CryptoPunks_Gender_Skin_tone.ipynb |
+| Word Frequency and Sentiment Analysis of Twitter Ethical Keywords | 4.1.3 Twitter Discussion Analysis of Ethical Keywords | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/social%20media%20analysis/Twitter_Analysis_CryptoPunks_Gender_Skin_tone.ipynb |
+| Hedonic Regression Result Visualization (Lollipop Plot) | 4.1.3 Twitter Discussion Analysis of Ethical Keywords | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/hedonic%20regression/Lollipop_plot_Hedonic_Regression.ipynb |
 
 ## Data Visualization
 - [image](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
