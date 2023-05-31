@@ -14,9 +14,8 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 ### Collected Data
 | **File Name** | **Data Category** | **Discription** |
 |--|--|--|
-|  | Social Media Data | All CryptoPunks-related tweets |
-|--|--|--|
-|  | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
+| queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
+| tweets_cryptopunk_gender_skintone.csv | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
 
 ### Analyzed Data
 
