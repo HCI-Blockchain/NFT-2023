@@ -3,7 +3,7 @@
 ## Supplementary resources, data, and code
 by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin Tong***
 
-(** corresponding authors*)
+(* *corresponding authors*)
 
 ## Table of Contents
 - [Data](https://github.com/HCI-Blockchain/NFT-2023#data)
