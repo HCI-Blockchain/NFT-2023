@@ -16,7 +16,9 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 |--|--|--|
 | queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
 | tweets_cryptopunk_gender_skintone.csv | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
-
+| cryptopunks_gender_skintone_info.csv | Transaction Data | CryptoPunks general information including skin tone, gender, price (in ETH), and trading wallet address |
+| Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
+| ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 ### Analyzed Data
 
 ## Code
