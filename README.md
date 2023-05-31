@@ -11,12 +11,18 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 - [Image](https://github.com/HCI-Blockchain/NFT-2023#image)
 
 ## Data
-- [Queried Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/queried_data)
-- [Analyzed Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/analyzed_data)
+### Collected Data
+| **File Name** | **Data Category** | **Discription** |
+|--|--|--|
+|  | Social Media Data | All CryptoPunks-related tweets |
+|--|--|--|
+|  | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
+
+### Analyzed Data
 
 ## Code
 - [Query](https://github.com/HCI-Blockchain/NFT-2023/tree/main/code/query)
 - [Analyze](https://github.com/HCI-Blockchain/NFT-2023/tree/main/code/analyze)
 
-## Image
+## Data Visualization
 - [image](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
