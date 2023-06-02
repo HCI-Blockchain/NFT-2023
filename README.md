@@ -37,5 +37,24 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | Hedonic Regression | 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation & 4.3. The Structural Changes in CryptoPunks Valuation After 2021 | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/hedonic%20regression/Hedonic%20Regression_skin_gender_sentiment.ipynb |
 | Regression Result Visualization (Lollipop Plot) | 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation & 4.3. The Structural Changes in CryptoPunks Valuation After 2021 | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/hedonic%20regression/Lollipop_plot_Hedonic_Regression.ipynb |
 
-## Data Visualization
-- [image](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
+## [Data Visualization](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
+### Section 4.1.1 Twitter Sentiment Analysis
+![CryptoPunks Daily Tweet Volume](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+![CryptoPunks Daily Sentiment Score](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_sentiment_2022.png)
+![CryptoPunks Sentiment Distribution (Days)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_sentiment_distribution_2022.png)
+
+### Section 4.1.2 Gender and Skin Tone Analysis of Transaction Data
+![CryptoPunks Gender and Skin Tone Distribution Heatmap](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/CryptoPunks%20Gender%20and%20Skin%20Tone%20Distribution%20Heatmap_new.png)
+
+### Section 4.1.3 Twitter Discussion Analysis of Ethical Keywords
+![Word Frequency of Gender and Skin Tone Keywords in Tweets](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Word%20Frequency%20of%20Gender%20and%20Skin%20Tone%20Keywords%20in%20Tweets.png)
+![Sentiment Scores for Gender and Skin Tone Keywords](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Sentiment%20Scores%20for%20Gender%20and%20Skin%20Tone%20Keywords.png)
+
+### Section 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation
+![The Comparison of the Performance of Price Predictors (With and Without Sentiment
+Score)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/lollipop_sentiment.png)
+
+### Section 4.3. The Structural Changes in CryptoPunks Valuation After 2021
+![The Comparison of the Performance of Price Predictors (Before and After 2021)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/lollipop_time.png)
+
+
