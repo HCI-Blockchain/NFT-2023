@@ -37,7 +37,7 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | Hedonic Regression | 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation & 4.3. The Structural Changes in CryptoPunks Valuation After 2021 | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/hedonic%20regression/Hedonic%20Regression_skin_gender_sentiment.ipynb |
 | Regression Result Visualization (Lollipop Plot) | 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation & 4.3. The Structural Changes in CryptoPunks Valuation After 2021 | https://github.com/HCI-Blockchain/NFT-2023/blob/main/code/analyze/hedonic%20regression/Lollipop_plot_Hedonic_Regression.ipynb |
 
-## [Data Visualization](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
+## [Data Visualization](https://github.com/HCI-Blockchain/NFT-2023/tree/main/figure)
 ### Section 4.1.1 Twitter Sentiment Analysis
 **Fig.1: CryptoPunks Daily Tweet Volume**
 ![CryptoPunks Daily Tweet Volume](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
