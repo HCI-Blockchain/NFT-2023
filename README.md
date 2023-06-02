@@ -27,6 +27,8 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | analyzed_sentiment_cryptopunk_2017_2022.csv | Daily sentiment score of CryptoPunks from 2017 to 2022 | 4.1.1 Twitter Sentiment Analysis |
 | analyzed_gender_skintone_transaction data.csv | The number and proportion of CryptoPunks traded from 2017 to 2022 according to gender and skin tone information | 4.1.2 Gender and Skin Tone Analysis of Transaction Data |
 | analyzed_keyword_sentiment and frequency.csv | Word frequency and sentiment score of gender and skin tone keywords in Tweets | 4.1.3 Twitter Discussion Analysis of Ethical Keywords |
+| merged dataset_without_sentiment.csv | Merged dataset for regression without sentiment score | 4.3. The Structural Changes in CryptoPunks Valuation After 2021 |
+| merged dataset_with_sentiment.csv | Merged dataset for regression with sentiment score | 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation & 4.3. The Structural Changes in CryptoPunks Valuation After 2021 |
 
 ## Code
 | **Content** | **Section of Paper** | **URL** |
