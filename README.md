@@ -39,25 +39,34 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 
 ## [Data Visualization](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
 ### Section 4.1.1 Twitter Sentiment Analysis
+Fig.1: CryptoPunks Daily Tweet Volume
 ![CryptoPunks Daily Tweet Volume](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
 
+Fig.2: CryptoPunks Daily Sentiment Score
 ![CryptoPunks Daily Sentiment Score](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_sentiment_2022.png)
 
+Fig.3: CryptoPunks Sentiment Distribution (Days)
 ![CryptoPunks Sentiment Distribution (Days)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_sentiment_distribution_2022.png)
 
 ### Section 4.1.2 Gender and Skin Tone Analysis of Transaction Data
+Fig.4: CryptoPunks Gender and Skin Tone Distribution Heatmap
 ![CryptoPunks Gender and Skin Tone Distribution Heatmap](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/CryptoPunks%20Gender%20and%20Skin%20Tone%20Distribution%20Heatmap_new.png)
 
 ### Section 4.1.3 Twitter Discussion Analysis of Ethical Keywords
+Fig.5: Word Frequency of Gender and Skin Tone Keywords in Tweets
 ![Word Frequency of Gender and Skin Tone Keywords in Tweets](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Word%20Frequency%20of%20Gender%20and%20Skin%20Tone%20Keywords%20in%20Tweets.png)
 
+Fig.6: Sentiment Scores for Gender and Skin Tone Keywords
 ![Sentiment Scores for Gender and Skin Tone Keywords](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Sentiment%20Scores%20for%20Gender%20and%20Skin%20Tone%20Keywords.png)
 
 ### Section 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation
+Fig.7: The Comparison of the Performance of Price Predictors (With and Without Sentiment
+Score)
 ![The Comparison of the Performance of Price Predictors (With and Without Sentiment
 Score)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/lollipop_sentiment.png)
 
 ### Section 4.3. The Structural Changes in CryptoPunks Valuation After 2021
+Fig.8: The Comparison of the Performance of Price Predictors (Before and After 2021)
 ![The Comparison of the Performance of Price Predictors (Before and After 2021)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/lollipop_time.png)
 
 
