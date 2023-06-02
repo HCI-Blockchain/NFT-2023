@@ -1,17 +1,14 @@
 # On the Mechanics of NFT Valuation: AI Ethics and Social Media
 
-## Supplementary resources, data, and code
+## *Supplementary resources, data, and code*
 by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin Tong***
 
 (* *corresponding authors*)
 
-## Table of Contents
-- [Data](https://github.com/HCI-Blockchain/NFT-2023#data)
-- [Code](https://github.com/HCI-Blockchain/NFT-2023#code)
-- [Image](https://github.com/HCI-Blockchain/NFT-2023#image)
+# Table of Contents
 
 ## Data
-### Collected Data
+### [Collected Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/queried_data)
 | **File Name** | **Data Category** | **Discription** |
 |--|--|--|
 | queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
@@ -20,7 +17,7 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
 | ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 
-### Analyzed Data
+### [Analyzed Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/analyzed_data)
 | **File Name** | **Discription** | **Section of Paper** |
 |--|--|--|
 | analyzed_tweet_volume_cryptopunk_2017_2022.csv  | Daily tweet volume of CryptoPunks from 2017 to 2022 | 4.1.1 Twitter Sentiment Analysis |
