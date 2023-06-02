@@ -40,7 +40,9 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 ## [Data Visualization](https://github.com/HCI-Blockchain/ICWSM-2023/tree/main/code/figure)
 ### Section 4.1.1 Twitter Sentiment Analysis
 ![CryptoPunks Daily Tweet Volume](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_tweet_volume_2022.png)
+
 ![CryptoPunks Daily Sentiment Score](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_daily_sentiment_2022.png)
+
 ![CryptoPunks Sentiment Distribution (Days)](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/cryptopunks_sentiment_distribution_2022.png)
 
 ### Section 4.1.2 Gender and Skin Tone Analysis of Transaction Data
@@ -48,6 +50,7 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 
 ### Section 4.1.3 Twitter Discussion Analysis of Ethical Keywords
 ![Word Frequency of Gender and Skin Tone Keywords in Tweets](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Word%20Frequency%20of%20Gender%20and%20Skin%20Tone%20Keywords%20in%20Tweets.png)
+
 ![Sentiment Scores for Gender and Skin Tone Keywords](https://github.com/HCI-Blockchain/NFT-2023/blob/main/figure/Sentiment%20Scores%20for%20Gender%20and%20Skin%20Tone%20Keywords.png)
 
 ### Section 4.2. The Influence of CryptoPunks Twitter Sentiment to CryptoPunks Valuation
