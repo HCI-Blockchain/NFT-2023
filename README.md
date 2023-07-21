@@ -28,6 +28,7 @@ url = {https://doi.org/10.7910/DVN/YMZC30}
 
 ## Data
 ### [Collected Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/queried_data)
+
 | **File Name** | **Data Category** | **Discription** |
 |--|--|--|
 | queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
