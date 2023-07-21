@@ -32,9 +32,13 @@ url = {https://doi.org/10.7910/DVN/YMZC30}
 | **File Name** | **Data Category** | **Discription** |
 |---------|-------------|--------------------------------|
 | queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
+
 | tweets_cryptopunk_gender_skintone.csv | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
+
 | cryptopunks_gender_skintone_info_new.csv | Transaction Data | CryptoPunks general information including skin tone, gender, price (in ETH), and trading wallet address |
+
 | Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
+
 | ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 
 
