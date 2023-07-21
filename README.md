@@ -7,18 +7,6 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 
 (* *corresponding authors*)
 
-# Table of Contents
-
-## Data
-### [Collected Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/queried_data)
-| **File Name** | **Data Category** | **Discription** |
-|--|--|--|
-| queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
-| tweets_cryptopunk_gender_skintone.csv | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
-| cryptopunks_gender_skintone_info_new.csv | Transaction Data | CryptoPunks general information including skin tone, gender, price (in ETH), and trading wallet address |
-| Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
-| ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
-
 ### Datasets on Harvard Dataverse:
 
 Zhang, Luyao; Yutong Sun; Yutong Quan; Jiaxun Cao; Tong Xin, 2023, "Replication Data for: On the Mechanics of NFT Valuation: AI Ethics and Social Media", https://doi.org/10.7910/DVN/YMZC30, Harvard Dataverse, V2, UNF:6:K18EFjOhNtecu0xnrmB6Wg== [fileUNF]
@@ -35,6 +23,19 @@ version = {V2},
 doi = {10.7910/DVN/YMZC30},
 url = {https://doi.org/10.7910/DVN/YMZC30}
 }
+
+# Table of Contents
+
+## Data
+### [Collected Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/queried_data)
+| **File Name** | **Data Category** | **Discription** |
+|--|--|--|
+| queried_tweets_cryptopunk_2017_2022.csv  | Social Media Data | All CryptoPunks-related tweets |
+| tweets_cryptopunk_gender_skintone.csv | Social Media Data | Tweets related to gender and skin tone in CryptoPunks |
+| cryptopunks_gender_skintone_info_new.csv | Transaction Data | CryptoPunks general information including skin tone, gender, price (in ETH), and trading wallet address |
+| Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
+| ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
+
 
 ```
 
