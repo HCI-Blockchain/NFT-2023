@@ -17,6 +17,25 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | Ethereum Gas Price_Daily Average.csv | Transaction Data | Ethereum daily average gas price |
 | ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 
+Datasets on Harvard Dataverse:
+```
+Zhang, Luyao; Yutong Sun; Yutong Quan; Jiaxun Cao; Tong Xin, 2023, "Replication Data for: On the Mechanics of NFT Valuation: AI Ethics and Social Media", https://doi.org/10.7910/DVN/YMZC30, Harvard Dataverse, V2, UNF:6:K18EFjOhNtecu0xnrmB6Wg== [fileUNF]
+```
+
+```
+@data{DVN/YMZC30_2023,
+author = {Zhang, Luyao and Yutong Sun and Yutong Quan and Jiaxun Cao and Tong Xin},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: On the Mechanics of NFT Valuation: AI Ethics and Social Media}},
+UNF = {UNF:6:K18EFjOhNtecu0xnrmB6Wg==},
+year = {2023},
+version = {V2},
+doi = {10.7910/DVN/YMZC30},
+url = {https://doi.org/10.7910/DVN/YMZC30}
+}
+
+```
+
 ### [Analyzed Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/analyzed_data)
 | **File Name** | **Discription** | **Section of Paper** |
 |--|--|--|
