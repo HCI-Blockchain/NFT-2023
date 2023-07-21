@@ -1,5 +1,7 @@
 # On the Mechanics of NFT Valuation: AI Ethics and Social Media
 
+[![DOI](https://zenodo.org/badge/585154437.svg)](https://zenodo.org/badge/latestdoi/585154437)
+
 ## *Supplementary resources, data, and code*
 by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin Tong***
 
