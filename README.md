@@ -18,9 +18,9 @@ by **Luyao Zhang***, **Yutong Sun**, **Yutong Quan**, **Jessie Cao** and **Xin T
 | ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 
 Datasets on Harvard Dataverse:
-```
+
 Zhang, Luyao; Yutong Sun; Yutong Quan; Jiaxun Cao; Tong Xin, 2023, "Replication Data for: On the Mechanics of NFT Valuation: AI Ethics and Social Media", https://doi.org/10.7910/DVN/YMZC30, Harvard Dataverse, V2, UNF:6:K18EFjOhNtecu0xnrmB6Wg== [fileUNF]
-```
+
 
 ```
 @data{DVN/YMZC30_2023,
