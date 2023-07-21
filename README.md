@@ -23,6 +23,7 @@ version = {V2},
 doi = {10.7910/DVN/YMZC30},
 url = {https://doi.org/10.7910/DVN/YMZC30}
 }
+```
 
 # Table of Contents
 
@@ -42,7 +43,7 @@ url = {https://doi.org/10.7910/DVN/YMZC30}
 | ETH_USD.csv | Transaction Data | The ETH/USD exchange rate |
 
 
-```
+
 
 ### [Analyzed Data](https://github.com/HCI-Blockchain/NFT-2023/tree/main/data/analyzed_data)
 | **File Name** | **Discription** | **Section of Paper** |
